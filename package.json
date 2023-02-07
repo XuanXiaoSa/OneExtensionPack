@@ -1,11 +1,11 @@
 {
-  "name": "oneextendionpack",
-  "displayName": "OneExtendionPack",
+  "name": "oneextensionpack",
+  "displayName": "OneExtensionPack",
   "description": "one of extension pack for xuanxiao's friends's vscode for happy",
   "version": "0.0.1",
   "publisher": "xuanxiao",
   "repository": {
-    "url": "https://github.com/XuanXiaoSa/OneExtendionPack",
+    "url": "https://github.com/XuanXiaoSa/OneExtensionPack",
     "directory": "(๑•̀ㅂ•́)و✧"
   },
   "license": "MIT",
