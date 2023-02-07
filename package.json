@@ -4,6 +4,7 @@
   "description": "one of extension pack for xuanxiao's friends's vscode for happy",
   "version": "0.0.2",
   "publisher": "xuanxiao",
+  "icon": "images/icon.png",
   "repository": {
     "url": "https://github.com/XuanXiaoSa/OneExtensionPack",
     "directory": "(๑•̀ㅂ•́)و✧"
