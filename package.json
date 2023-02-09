@@ -17,6 +17,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "xuanxiao.onecodesnippets",
     "aeschli.vscode-css-formatter",
     "akamud.vscode-javascript-snippet-pack",
     "alefragnani.project-manager",

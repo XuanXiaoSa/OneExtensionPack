@@ -1,5 +1,7 @@
 # oneextendionpack README
 
+- [OneCodeSnippets](https://marketplace.visualstudio.com/items?itemName=xuanxiao.onecodesnippets) - 这是基于实际使用的常用代码块，如果有需要可以联系作者继续添加
+
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - 这是基于项目的.editorconfig文件设置,可以保证不同IDE下,对于文件的编码,字符格式,缩进规则等等,进行统一规范的处理. 🔖 好处:内容管理清晰,不会出现解决冲突 或者查看修改记录的时候出现一大片红,一大片绿,仔细研究发现其实是换行符,或者是缩进是Tab还是四个空格的问题.也不会出现我code开发完,下次用vs或者其他IDE打开,编码方式不对导致的乱码现象 🎯
 - [JavascriptSnippetPack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack) - JS语法片段,方便以缩写的形式快速敲出你想要的代码 🚀
 - [TurboConsoleLog](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - 打印小火箭，取代混乱的conloselog，选中想打印的字段然后按ctrl+option+L 可以知道是哪一行的打印（大毛力荐）🚀
