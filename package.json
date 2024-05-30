@@ -17,7 +17,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "xuanxiao.onecodesnippets",
     "aeschli.vscode-css-formatter",
     "akamud.vscode-javascript-snippet-pack",
     "alefragnani.project-manager",
@@ -51,6 +50,8 @@
     "rangav.vscode-thunder-client",
     "ritwickdey.LiveServer",
     "sibiraj-s.vscode-scss-formatter",
-    "syler.sass-indented"
+    "syler.sass-indented",
+    "GitLab.gitlab-workflow",
+    "bradlc.vscode-tailwindcss"
   ]
 }
